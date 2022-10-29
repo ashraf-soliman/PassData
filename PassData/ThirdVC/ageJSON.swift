@@ -1,7 +1,6 @@
 //
 //  ageJSON.swift
 //  PassData
-//
 //  Created by ashraf on 27/10/2022.
 //
 
